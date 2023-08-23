@@ -4,7 +4,7 @@ This starter template is built using the Sitecore JavaScript Rendering SDK (JSS)
 
 ## Deploy to Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fah100101%2Fxmcloud-nextjs-starter&env=JSS_APP_NAME,GRAPH_QL_ENDPOINT,SITECORE_API_KEY&envDescription=These%20variables%20must%20match%20the%20associated%20site%20settings%20in%20XM%20Cloud&envLink=https%3A%2F%2Fdoc.sitecore.com%2Fxmc%2Fen%2Fdevelopers%2Fxm-cloud%2Fwalkthrough--deploying-your-front-end-application-to-vercel.html&project-name=xmcloud-nextjs-starter&repository-name=xmcloud-nextjs-starter)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fah100101%2Fxmcloud-nextjs-template&env=JSS_APP_NAME,GRAPH_QL_ENDPOINT,SITECORE_API_KEY&envDescription=These%20variables%20must%20match%20the%20associated%20site%20settings%20in%20XM%20Cloud&envLink=https%3A%2F%2Fdoc.sitecore.com%2Fxmc%2Fen%2Fdevelopers%2Fxm-cloud%2Fwalkthrough--deploying-your-front-end-application-to-vercel.html&project-name=xmcloud-nextjs-starter&repository-name=xmcloud-nextjs-starter)
 
 This template requires the following environment variables:
 
